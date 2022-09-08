@@ -1,4 +1,4 @@
-#Include <studio.h>
+#include <studio.h>
 
 /**
  * main - print the string in theput function
